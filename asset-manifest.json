@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71984fea.css",
+    "main.js": "/static/js/main.66d8bc48.js",
+    "static/media/showcase-img.png": "/static/media/showcase-img.335ddc8ecf19c9f4bc03.png",
+    "static/media/contact-bg.png": "/static/media/contact-bg.26d00b1868516eea85fe.png",
+    "static/media/minivan.jpg": "/static/media/minivan.e1c22fc28aca66ea5171.jpg",
+    "static/media/showcase-bg-tablet.png": "/static/media/showcase-bg-tablet.783d219fca6a1eebdff1.png",
+    "static/media/dongfeng-aeolus.jpg": "/static/media/dongfeng-aeolus.3c702ee86d6da264c0ec.jpg",
+    "static/media/pickup.jpg": "/static/media/pickup.b179c5b0266e1b2521b2.jpg",
+    "static/media/showcase-bg-phone.png": "/static/media/showcase-bg-phone.69b464995a60e6d4da68.png",
+    "static/media/special.png": "/static/media/special.e3655ac6498518c03f40.png",
+    "static/media/car1.png": "/static/media/car1.ff7f7857de2caa8c7eab.png",
+    "static/media/truck.jpg": "/static/media/truck.cec1e5d76ca028f30e64.jpg",
+    "static/media/dongfeng-salon.jpg": "/static/media/dongfeng-salon.6eed3dc355be439c9ab2.jpg",
+    "static/media/dongfeng-salon2.jpg": "/static/media/dongfeng-salon2.f3a3531d810839704134.jpg",
+    "static/media/dongfeng-coach-bus-2.jpg": "/static/media/dongfeng-coach-bus-2.c12142bc816916090532.jpg",
+    "static/media/logo.svg": "/static/media/logo.6bd14b92908d0f094410b1292d257a7c.svg",
+    "static/media/montserrat-v25-latin-500.woff2": "/static/media/montserrat-v25-latin-500.38a674fae449557fef97.woff2",
+    "static/media/montserrat-v25-latin-regular.woff2": "/static/media/montserrat-v25-latin-regular.acb6629fe45c43ad5d8b.woff2",
+    "static/media/montserrat-v25-latin-600.woff2": "/static/media/montserrat-v25-latin-600.5d6df38dd70f631c488b.woff2",
+    "static/media/Mercedes-Benz.png": "/static/media/Mercedes-Benz.f0f091a5058ba18860b2.png",
+    "static/media/circle-progress.svg": "/static/media/circle-progress.9b4a0a1cf32de4ebbc2b3420cd18b824.svg",
+    "static/media/mdi_bus.svg": "/static/media/mdi_bus.84b6267694cb5c1a2007e2f6b8579f5a.svg",
+    "static/media/mdi_van-utility.svg": "/static/media/mdi_van-utility.cac8b74ff5b0abc47418a40e62ea11f5.svg",
+    "static/media/mdi_car-pickup.svg": "/static/media/mdi_car-pickup.247bdcbf245f7cb62c0cedc32355389d.svg",
+    "static/media/mdi_truck.svg": "/static/media/mdi_truck.b437eb46b52f4a759f4084d29ceccdbb.svg",
+    "static/media/mdi_car-suv.svg": "/static/media/mdi_car-suv.f58fa8a903da0ab479d2b88c123772a9.svg",
+    "static/media/close.svg": "/static/media/close.56d09cda749578d489eb6c4c9bad33f6.svg",
+    "index.html": "/index.html",
+    "static/media/mdi_folder-star.svg": "/static/media/mdi_folder-star.f5abd1dffc7cb6e9f286916ca27be9fc.svg",
+    "static/media/iconoir_arrow-tr.svg": "/static/media/iconoir_arrow-tr.410549199b06f6fef749.svg",
+    "static/media/form-arrow.svg": "/static/media/form-arrow.afabf51b6f5ccd99cd76.svg",
+    "main.71984fea.css.map": "/static/css/main.71984fea.css.map",
+    "main.66d8bc48.js.map": "/static/js/main.66d8bc48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71984fea.css",
+    "static/js/main.66d8bc48.js"
+  ]
+}
